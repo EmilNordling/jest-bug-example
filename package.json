@@ -67,6 +67,9 @@
     "babel-runtime": "^6.26.0",
     "husky": "^1.1.2",
     "jest": "^23.6.0",
+    "tslint": "^5.8.0",
+    "tslint-config-standard": "^7.0.0",
+    "tslint-react": "^3.5.1",
     "typescript": "^3.0.1",
     "typescript-babel-jest": "^1.0.5"
   },
